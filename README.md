@@ -45,8 +45,8 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+Boyfriend Name: "Raihan"                    // Your BF's name
+pageTitle: "Sayangkuu 💝"                  // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
@@ -63,22 +63,22 @@ questions: {
         secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
     },
     second: {
-        text: "How much do you love me?",          // Second question
-        startText: "This much!",                   // Text before percentage
-        nextBtn: "Next ❤️"                         // Next button text
+        text: "How do you feel rn?",               // Second question
+        startText: "Better sayangg!",              // Text before percentage
+        nextBtn: "Lanjut ❤️"                        // Next button text
     },
     third: {
-        text: "Will you be my Valentine...?",      // Final question
-        yesBtn: "Yes!",                            // Yes button text
-        noBtn: "No"                                // No button text
+        text: "Apa kamu masih overwhelment...?",      // Final question
+        yesBtn: "No!",                            // Yes button text
+        noBtn: "Yes"                                // No button text
     }
 }
 
 // Love Meter Messages
 loveMessages: {
     extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
-    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
-    normal: "And beyond! 🥰"                           // Shows above 100%
+    high: "Patience Level! 🚀💝",              // Shows above 1000%
+    normal: "Resilience Level! 🥰"                           // Shows above 100%
 }
 
 // Final Celebration
